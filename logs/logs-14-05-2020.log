@@ -1,0 +1,19 @@
+14:38:46.793 [main] DEBUG org.example.alpha.Log4jDemo - Getting the frames count
+14:38:46.835 [main] INFO  org.example.alpha.Log4jDemo - Frames count retreived
+14:38:46.865 [main] INFO  org.example.alpha.Log4jDemo - Successfully switched to frame
+14:38:46.865 [main] DEBUG org.example.alpha.Log4jDemo - Identifying Draggable objects
+14:38:47.277 [main] INFO  org.example.alpha.Log4jDemo - Drag and drop success
+14:38:48.011 [main] INFO  org.example.alpha.Log4jDemo - Driver has been successfully closed
+16:38:04.799 [main] INFO  org.example.alpha.Log4jDemo - Window Maximized
+16:38:07.985 [main] INFO  org.example.alpha.Log4jDemo - Landed on amazon home page
+16:38:11.650 [main] INFO  org.example.alpha.Log4jDemo - Frames count retreived
+16:38:11.754 [main] INFO  org.example.alpha.Log4jDemo - Successfully switched to frame
+16:38:12.376 [main] INFO  org.example.alpha.Log4jDemo - Drag and drop success
+16:38:13.226 [main] INFO  org.example.alpha.Log4jDemo - Driver has been successfully closed
+16:39:21.798 [main] DEBUG org.example.alpha.Log4jDemo - Setting chrome driver property
+16:39:24.606 [main] INFO  org.example.alpha.Log4jDemo - Window Maximized
+16:39:24.606 [main] DEBUG org.example.alpha.Log4jDemo - Now hitting Amazon server
+16:39:27.962 [main] INFO  org.example.alpha.Log4jDemo - Landed on amazon home page
+16:39:34.083 [main] DEBUG org.example.alpha.Log4jDemo - Getting the frames count
+16:39:34.166 [main] INFO  org.example.alpha.Log4jDemo - Frames count retreived
+16:39:34.212 [main] INFO  org.example.alpha.Log4jDemo - Successfully switched to frame

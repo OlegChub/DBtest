@@ -1,0 +1,3 @@
+16:39:34.212 [main] DEBUG org.example.alpha.Log4jDemo - Identifying Draggable objects
+16:39:34.703 [main] INFO  org.example.alpha.Log4jDemo - Drag and drop success
+16:39:35.602 [main] INFO  org.example.alpha.Log4jDemo - Driver has been successfully closed
